@@ -49,10 +49,6 @@ html {
   padding: var(--section-padding);
 }
 
-.section-header {
-  text-align: var(--section-header-align);
-}
-
 .section-body {
   padding: var(--section-body-padding);
 }
@@ -60,6 +56,10 @@ html {
 .section-footer {
   padding: var(--section-footer-padding);
   text-align: var(--section-footer-align);
+}
+
+.section-header {
+  text-align: var(--section-header-align);
 }
 
 .section-title {
